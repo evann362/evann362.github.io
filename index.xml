@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The NickEvents Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://evann362.github.io/</link>
     <description>Recent content on The NickEvents Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Oct 2025 18:13:16 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://evann362.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ParcVilleteSoundscape</title>
-      <link>http://localhost:1313/posts/parcvilletesoundscape/</link>
+      <link>https://evann362.github.io/posts/parcvilletesoundscape/</link>
       <pubDate>Mon, 27 Oct 2025 18:13:16 +0100</pubDate>
-      <guid>http://localhost:1313/posts/parcvilletesoundscape/</guid>
+      <guid>https://evann362.github.io/posts/parcvilletesoundscape/</guid>
       <description>&lt;p&gt;I reconstructed some of the geometry of the parc de la Villette in 3d form and attached certain forms to react based on the sound I collected from the Park. Thus sound triggers geometry. I experimented a light more than usual within the 3d software Blender especially with its Evee render.&#xA;&lt;strong&gt;Soundscape with shaders&lt;/strong&gt; &lt;em&gt;DigitalZ00&lt;/em&gt;&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;video&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;https://www.youtube.com/embed/3am9Jz6s29w?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
