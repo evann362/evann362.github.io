@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The NickEvents Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on The NickEvents Blog</description>
+    <title>XR Dev on The NickEvents Blog</title>
+    <link>http://localhost:1313/tags/xr-dev/</link>
+    <description>Recent content in XR Dev on The NickEvents Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Nov 2025 00:10:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/xr-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jardin de Math XR Experience</title>
       <link>http://localhost:1313/posts/jardindmathxr/</link>
       <pubDate>Tue, 04 Nov 2025 00:10:37 +0100</pubDate>
       <guid>http://localhost:1313/posts/jardindmathxr/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;Cr�ez une exp�rience immersive dans un jardin avec une g�om�trie � la fois vivante et math�matique.&#xA;Dans le monde de la g�om�trie, il y a diverses formes embl�matiques que nous pensons que tout le monde&#xA;devrait conna�tre, comme un Poly�dre de Szilassi, une pyramide d��gypte ou une �toile dod�ca�dre. Ils expliquent&#xA;en grande partie comment le monde qui nous entoure, en particulier la nature, a des motifs math�matiques r�p�titifs&#xA;qui nous aident � cr�er. En utilisant des mod�les 3D et des animations cr��s dans Blender, import�s ensuite dans&#xA;le moteur de jeu Unity pour le casque Meta Quest 3. C�est cens� �tre une exp�rience partag�e pour les groupes&#xA;de 3-4 avec la possibilit� de profiter tout en conduisant un hovercart similaire � Mario Kart.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ParcVilleteSoundscape</title>
-      <link>http://localhost:1313/posts/parcvilletesoundscape/</link>
-      <pubDate>Mon, 27 Oct 2025 18:13:16 +0100</pubDate>
-      <guid>http://localhost:1313/posts/parcvilletesoundscape/</guid>
-      <description>&lt;p&gt;I reconstructed some of the geometry of the parc de la Villette in 3d form and attached certain forms to react based on the sound I collected from the Park. Thus sound triggers geometry. I experimented a light more than usual within the 3d software Blender especially with its Evee render.&#xA;&lt;strong&gt;Soundscape with shaders&lt;/strong&gt; &lt;em&gt;DigitalZ00&lt;/em&gt;&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;video&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;https://www.youtube.com/embed/3am9Jz6s29w?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
