@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TouchDesigner on The NickEvents Blog</title>
+    <link>https://evann362.github.io/tags/touchdesigner/</link>
+    <description>Recent content in TouchDesigner on The NickEvents Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2024 00:10:37 +0100</lastBuildDate>
+    <atom:link href="https://evann362.github.io/tags/touchdesigner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Controlling the Mist</title>
+      <link>https://evann362.github.io/posts/xrdev04/</link>
+      <pubDate>Thu, 04 Jul 2024 00:10:37 +0100</pubDate>
+      <guid>https://evann362.github.io/posts/xrdev04/</guid>
+      <description>&lt;p&gt;Controlling the Mist&#xA;In my mission of using Touchdesigner(TD) for more interactive experiences, I created a VR experience for the Meta Quest headset. At the moment TD only supported virtual interactions and not AR interaction for the Quest headsets.&#xA;&#xD;&#xA;&lt;div class=&#34;video&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;https://www.youtube.com/embed/i9VKYozDCvU?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;I wanted to use the position of the controllers to influence the particle system. This effect is kind of like in games when the player gets a power up. When I raised my controllers the particles would elevate to a higher degree and spiral outward. When my controllers were low to the ground they wouldn&amp;rsquo;t elevate that much. The direction of the vortex is created depending on the location of the controllers whether they are to the right or the left of the main center position. The user is in control, creating a mist of particles.&#xA;This was the combination of multiple tutos on youtube to track the controllers input thus why you have also the tentacle life moving thing that grows depending on the distance between the L and R controller.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neige Particles</title>
+      <link>https://evann362.github.io/posts/xrdev05/</link>
+      <pubDate>Thu, 04 May 2023 00:10:37 +0100</pubDate>
+      <guid>https://evann362.github.io/posts/xrdev05/</guid>
+      <description>&lt;p&gt;A TouchDesigner projection showcased during Nuit Blanche 2023 at Le LOREM. Searching for interaction in our internal projects using Kinect2. This project makes use of how the digital eye breaks things down to pixels or a times point clouds. One could imagine it&amp;rsquo;s similar to the snow or dust that falls from above. Are we aware of our begining and end as something so tiny as dust? Would we prefer flowers? They are in the ground too. Are we to expire or is posible that we have some essence of ourselves that lives on?&#xA;&#xD;&#xA;  &lt;div class=&#34;video&#34;&gt;&#xD;&#xA;    &lt;iframe src=&#34;https://www.youtube.com/embed/c8PULr95iic?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
